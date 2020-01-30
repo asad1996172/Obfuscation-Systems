@@ -1,8 +1,15 @@
 import pickle
+import io
 
 def save_pickle_dict(pickle_path, dict):
     with open(pickle_path + '.pickle', 'wb') as handle:
         pickle.dump(dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+
+def get_text(file_path):
+    input_text = io.open(file_path, "r", errors="ignore").readlines()
+    input_text = ''.join(str(e) + "" for e in input_text)
+    return input_text
 
 
 def load_pickle_dict(pickle_path):
@@ -153,4 +160,3 @@ def create_contractions_markers_pickles():
         discourse_markers.append(str(line))
 
     save_pickle_list('discourse_markers', discourse_markers)
-

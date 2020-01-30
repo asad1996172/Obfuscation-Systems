@@ -79,8 +79,8 @@ def synonym_substitution(sentence, all_words):
     output = wsd.process_text(sentence)
     for token, synset in output:
         if synset != None:
-            synset_name = get_synset_name(synset)
             try:
+                synset_name = get_synset_name(synset)
                 synonyms = synset_name.lemma_names()
                 # print(token, ":::::", synonyms)
                 for synonym in synonyms:
@@ -133,5 +133,5 @@ def obfuscate_text(input_text, contractions, discourse_markers):
         # print("Obfuscated sentence:", sentence)
         obfuscated_text.append(sentence)
     obfuscated_text = " ".join(obfuscated_text)
-    print(obfuscated_text)
+    # print(obfuscated_text)
     return obfuscated_text
