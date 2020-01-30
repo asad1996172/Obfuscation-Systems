@@ -1,5 +1,4 @@
 import pickle
-from pyfreeling import Analyzer
 
 def save_pickle_dict(pickle_path, dict):
     with open(pickle_path + '.pickle', 'wb') as handle:
@@ -155,14 +154,3 @@ def create_contractions_markers_pickles():
 
     save_pickle_list('discourse_markers', discourse_markers)
 
-
-def testing_pyfreeling():
-    analyzer = Analyzer(config='confiq/en_mwe_nec.cfg')
-    xml = analyzer.run('Hello World')
-
-    analyzer = Analyzer(config='config.cfg', lang='es')
-
-    analyzer.run('Hola mundo', 'noflush')
-
-
-testing_pyfreeling()

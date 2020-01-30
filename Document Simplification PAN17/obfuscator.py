@@ -3,7 +3,13 @@ import nltk
 import re
 from nltk.wsd import lesk
 from nltk.corpus import wordnet as wn
-from pyfreeling import Analyzer
+import WSD_with_UKB as wsd
+
+def get_synset_name(synset):
+    synset = synset.split('-')
+    offset = int(synset[0])
+    pos = synset[1]
+    return wn.synset_from_pos_and_offset(pos, offset)
 
 def untokenize(words):
     """
@@ -68,19 +74,20 @@ def contraction_replacement(sentence, contractions):
 
 def synonym_substitution(sentence, all_words):
     new_tokens = []
-    tokens = nltk.word_tokenize(sentence)
-    for token in tokens:
-        synset_name = (lesk(sentence, token))
-        try:
-            synonyms = synset_name.lemma_names()
-            print(token, ":::::", synonyms)
-            for synonym in synonyms:
-                if synonym.lower() not in all_words:
-                    token = synonym
-                    break
-        except Exception as e:
-            print(e)
-            pass
+    output = wsd.process_text(sentence)
+    for token, synset in output:
+        if synset!=None:
+            synset_name = get_synset_name(synset)
+            try:
+                synonyms = synset_name.lemma_names()
+                print(token, ":::::", synonyms)
+                for synonym in synonyms:
+                    if synonym.lower() not in all_words:
+                        token = synonym
+                        break
+            except Exception as e:
+                print(e)
+                pass
         new_tokens.append(token)
 
     final = untokenize(new_tokens)
