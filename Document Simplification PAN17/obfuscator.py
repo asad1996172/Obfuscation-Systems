@@ -117,7 +117,7 @@ def remove_appositions(sentence):
     return sentence
 
 def obfuscate_text(input_text, contractions, discourse_markers):
-    obfuscated_text = ""
+    obfuscated_text = []
     sentences = sent_tokenize(input_text)
     tokens = set(nltk.word_tokenize(input_text.lower()))
     for sentence in sentences:
@@ -131,6 +131,7 @@ def obfuscate_text(input_text, contractions, discourse_markers):
             sentence = remove_appositions(sentence)
         sentence = synonym_substitution(sentence, tokens)
         # print("Obfuscated sentence:", sentence)
-        obfuscated_text += sentence
+        obfuscated_text.append(sentence)
+    obfuscated_text = " ".join(obfuscated_text)
     print(obfuscated_text)
     return obfuscated_text
