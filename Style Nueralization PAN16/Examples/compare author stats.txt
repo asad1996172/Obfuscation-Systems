@@ -1,0 +1,781 @@
+-----------------------------
+problem-002:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-002/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 20.48076923076923
+sentence_count = 52
+word_count = 1065
+unique_words_count = 320
+unique_words_ratio = 0.3004694835680751
+misspelled_words_rate = 0.22629107981220659
+average_noun_rate = 0.3408450704225352
+average_verb_rate = 0.16056338028169015
+average_adj_rate = 0.10704225352112676
+average_adv_rate = 0.03286384976525822
+average_punct_rate = 0.13708920187793427
+stop_words_count = 427
+stop_words_ratio = 0.40093896713615024
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-002/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 21.306122448979593
+sentence_count = 49
+word_count = 1044
+unique_words_count = 377
+unique_words_ratio = 0.3611111111111111
+misspelled_words_rate = 0.29693486590038315
+average_noun_rate = 0.3457854406130268
+average_verb_rate = 0.1724137931034483
+average_adj_rate = 0.15134099616858238
+average_adv_rate = 0.02490421455938697
+average_punct_rate = 0.14655172413793102
+stop_words_count = 415
+stop_words_ratio = 0.3975095785440613
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-002/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 25.0
+sentence_count = 42
+word_count = 1050
+unique_words_count = 303
+unique_words_ratio = 0.2885714285714286
+misspelled_words_rate = 0.23142857142857143
+average_noun_rate = 0.35523809523809524
+average_verb_rate = 0.17142857142857143
+average_adj_rate = 0.11523809523809524
+average_adv_rate = 0.03142857142857143
+average_punct_rate = 0.11238095238095239
+stop_words_count = 470
+stop_words_ratio = 0.44761904761904764
+
+
+-----------------
+problem-001:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-001/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 17.532258064516128
+sentence_count = 62
+word_count = 1087
+unique_words_count = 448
+unique_words_ratio = 0.41214351425942963
+misspelled_words_rate = 0.34314627414903404
+average_noun_rate = 0.2907083716651334
+average_verb_rate = 0.22447102115915363
+average_adj_rate = 0.10303587856485741
+average_adv_rate = 0.04139834406623735
+average_punct_rate = 0.10487580496780129
+stop_words_count = 456
+stop_words_ratio = 0.41950321987120515
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-001/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 17.616666666666667
+sentence_count = 60
+word_count = 1057
+unique_words_count = 538
+unique_words_ratio = 0.5089877010406811
+misspelled_words_rate = 0.38221381267738885
+average_noun_rate = 0.3330179754020814
+average_verb_rate = 0.22232734153263956
+average_adj_rate = 0.09555345316934721
+average_adv_rate = 0.039735099337748346
+average_punct_rate = 0.1239356669820246
+stop_words_count = 396
+stop_words_ratio = 0.37464522232734154
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-001/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 17.885245901639344
+sentence_count = 61
+word_count = 1091
+unique_words_count = 476
+unique_words_ratio = 0.43629697525206235
+misspelled_words_rate = 0.307057745187901
+average_noun_rate = 0.3785517873510541
+average_verb_rate = 0.17415215398716774
+average_adj_rate = 0.09807516040329972
+average_adv_rate = 0.02474793767186068
+average_punct_rate = 0.12923923006416133
+stop_words_count = 391
+stop_words_ratio = 0.35838680109990834
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-001/same-author03.txt
+>>>>>>>>>>>> Stats for file same-author03.txt
+average_sentence_length = 15.23943661971831
+sentence_count = 71
+word_count = 1082
+unique_words_count = 533
+unique_words_ratio = 0.4926062846580407
+misspelled_words_rate = 0.3853974121996303
+average_noun_rate = 0.34935304990757854
+average_verb_rate = 0.1977818853974122
+average_adj_rate = 0.09426987060998152
+average_adv_rate = 0.036968576709796676
+average_punct_rate = 0.11645101663585952
+stop_words_count = 423
+stop_words_ratio = 0.3909426987060998
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-001/same-author04.txt
+>>>>>>>>>>>> Stats for file same-author04.txt
+average_sentence_length = 15.303030303030303
+sentence_count = 66
+word_count = 1010
+unique_words_count = 458
+unique_words_ratio = 0.4534653465346535
+misspelled_words_rate = 0.3683168316831683
+average_noun_rate = 0.3336633663366337
+average_verb_rate = 0.20594059405940593
+average_adj_rate = 0.09504950495049505
+average_adv_rate = 0.033663366336633666
+average_punct_rate = 0.11188118811881188
+stop_words_count = 401
+stop_words_ratio = 0.39702970297029705
+
+
+--------------------------------------------
+problem-003:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 18.535714285714285
+sentence_count = 56
+word_count = 1038
+unique_words_count = 332
+unique_words_ratio = 0.3198458574181118
+misspelled_words_rate = 0.2591522157996146
+average_noun_rate = 0.3179190751445087
+average_verb_rate = 0.15895953757225434
+average_adj_rate = 0.06936416184971098
+average_adv_rate = 0.04527938342967245
+average_punct_rate = 0.11175337186897881
+stop_words_count = 508
+stop_words_ratio = 0.48940269749518306
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 17.45
+sentence_count = 60
+word_count = 1047
+unique_words_count = 382
+unique_words_ratio = 0.3648519579751671
+misspelled_words_rate = 0.2808022922636103
+average_noun_rate = 0.3209169054441261
+average_verb_rate = 0.20248328557784145
+average_adj_rate = 0.06685768863419293
+average_adv_rate = 0.03724928366762178
+average_punct_rate = 0.10506208213944604
+stop_words_count = 481
+stop_words_ratio = 0.4594078319006686
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 16.688524590163933
+sentence_count = 61
+word_count = 1018
+unique_words_count = 307
+unique_words_ratio = 0.30157170923379173
+misspelled_words_rate = 0.2318271119842829
+average_noun_rate = 0.23280943025540274
+average_verb_rate = 0.2131630648330059
+average_adj_rate = 0.10805500982318271
+average_adv_rate = 0.05893909626719057
+average_punct_rate = 0.11787819253438114
+stop_words_count = 477
+stop_words_ratio = 0.468565815324165
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/same-author03.txt
+>>>>>>>>>>>> Stats for file same-author03.txt
+average_sentence_length = 16.107692307692307
+sentence_count = 65
+word_count = 1047
+unique_words_count = 318
+unique_words_ratio = 0.3037249283667622
+misspelled_words_rate = 0.2492836676217765
+average_noun_rate = 0.2502387774594078
+average_verb_rate = 0.23113658070678128
+average_adj_rate = 0.0964660936007641
+average_adv_rate = 0.044890162368672396
+average_punct_rate = 0.12702960840496658
+stop_words_count = 511
+stop_words_ratio = 0.4880611270296084
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/same-author04.txt
+>>>>>>>>>>>> Stats for file same-author04.txt
+average_sentence_length = 17.049180327868854
+sentence_count = 61
+word_count = 1040
+unique_words_count = 297
+unique_words_ratio = 0.28557692307692306
+misspelled_words_rate = 0.23173076923076924
+average_noun_rate = 0.26826923076923076
+average_verb_rate = 0.18846153846153846
+average_adj_rate = 0.06634615384615385
+average_adv_rate = 0.03173076923076923
+average_punct_rate = 0.11153846153846154
+stop_words_count = 504
+stop_words_ratio = 0.4846153846153846
+Reading input file D:\Projects\fmi\pan-corpus-small\problem-003/same-author05.txt
+>>>>>>>>>>>> Stats for file same-author05.txt
+average_sentence_length = 19.672727272727272
+sentence_count = 55
+word_count = 1082
+unique_words_count = 327
+unique_words_ratio = 0.3022181146025878
+misspelled_words_rate = 0.2513863216266174
+average_noun_rate = 0.30129390018484287
+average_verb_rate = 0.19500924214417745
+average_adj_rate = 0.05268022181146026
+average_adv_rate = 0.04621072088724584
+average_punct_rate = 0.11275415896487985
+stop_words_count = 533
+stop_words_ratio = 0.4926062846580407
+
+-----------------------------------
+
+problem-050:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus\problem-050/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 23.655172413793103
+sentence_count = 29
+word_count = 686
+unique_words_count = 342
+unique_words_ratio = 0.49854227405247814
+misspelled_words_rate = 0.43440233236151604
+average_noun_rate = 0.23177842565597667
+average_verb_rate = 0.21137026239067055
+average_adj_rate = 0.06997084548104957
+average_adv_rate = 0.0641399416909621
+average_punct_rate = 0.13119533527696792
+stop_words_count = 333
+stop_words_ratio = 0.48542274052478135
+Reading input file D:\Projects\fmi\pan-corpus\problem-050/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 22.548387096774192
+sentence_count = 31
+word_count = 699
+unique_words_count = 322
+unique_words_ratio = 0.46065808297567956
+misspelled_words_rate = 0.4062947067238913
+average_noun_rate = 0.23462088698140202
+average_verb_rate = 0.21888412017167383
+average_adj_rate = 0.07582260371959942
+average_adv_rate = 0.06580829756795423
+average_punct_rate = 0.0944206008583691
+stop_words_count = 347
+stop_words_ratio = 0.49642346208869814
+
+
+-------------------------------------------
+
+problem-100:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus\problem-100/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 18.88235294117647
+sentence_count = 51
+word_count = 963
+unique_words_count = 395
+unique_words_ratio = 0.4101765316718588
+misspelled_words_rate = 0.3343717549325026
+average_noun_rate = 0.24610591900311526
+average_verb_rate = 0.20456905503634476
+average_adj_rate = 0.07476635514018691
+average_adv_rate = 0.060228452751817235
+average_punct_rate = 0.12357217030114226
+stop_words_count = 488
+stop_words_ratio = 0.5067497403946002
+Reading input file D:\Projects\fmi\pan-corpus\problem-100/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 23.17241379310345
+sentence_count = 29
+word_count = 672
+unique_words_count = 273
+unique_words_ratio = 0.40625
+misspelled_words_rate = 0.35267857142857145
+average_noun_rate = 0.24851190476190477
+average_verb_rate = 0.24107142857142858
+average_adj_rate = 0.06994047619047619
+average_adv_rate = 0.07589285714285714
+average_punct_rate = 0.07291666666666667
+stop_words_count = 324
+stop_words_ratio = 0.48214285714285715
+Reading input file D:\Projects\fmi\pan-corpus\problem-100/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 21.0
+sentence_count = 37
+word_count = 777
+unique_words_count = 276
+unique_words_ratio = 0.3552123552123552
+misspelled_words_rate = 0.3127413127413127
+average_noun_rate = 0.1879021879021879
+average_verb_rate = 0.21235521235521235
+average_adj_rate = 0.08751608751608751
+average_adv_rate = 0.11840411840411841
+average_punct_rate = 0.07078507078507079
+stop_words_count = 398
+stop_words_ratio = 0.5122265122265123
+Reading input file D:\Projects\fmi\pan-corpus\problem-100/same-author03.txt
+>>>>>>>>>>>> Stats for file same-author03.txt
+average_sentence_length = 22.742857142857144
+sentence_count = 35
+word_count = 796
+unique_words_count = 316
+unique_words_ratio = 0.3969849246231156
+misspelled_words_rate = 0.3492462311557789
+average_noun_rate = 0.17839195979899497
+average_verb_rate = 0.21608040201005024
+average_adj_rate = 0.04020100502512563
+average_adv_rate = 0.10175879396984924
+average_punct_rate = 0.12311557788944724
+stop_words_count = 451
+stop_words_ratio = 0.5665829145728644
+Reading input file D:\Projects\fmi\pan-corpus\problem-100/same-author04.txt
+>>>>>>>>>>>> Stats for file same-author04.txt
+average_sentence_length = 23.575757575757574
+sentence_count = 33
+word_count = 778
+unique_words_count = 252
+unique_words_ratio = 0.32390745501285345
+misspelled_words_rate = 0.2814910025706941
+average_noun_rate = 0.2249357326478149
+average_verb_rate = 0.19922879177377892
+average_adj_rate = 0.07840616966580977
+average_adv_rate = 0.08483290488431877
+average_punct_rate = 0.07969151670951156
+stop_words_count = 414
+stop_words_ratio = 0.532133676092545
+
+
+--------------------------------
+
+problem-150:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus\problem-150/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 34.30232558139535
+sentence_count = 43
+word_count = 1475
+unique_words_count = 686
+unique_words_ratio = 0.46508474576271186
+misspelled_words_rate = 0.3823728813559322
+average_noun_rate = 0.26576271186440675
+average_verb_rate = 0.15322033898305085
+average_adj_rate = 0.09966101694915254
+average_adv_rate = 0.061016949152542375
+average_punct_rate = 0.08203389830508474
+stop_words_count = 686
+stop_words_ratio = 0.46508474576271186
+Reading input file D:\Projects\fmi\pan-corpus\problem-150/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 28.640750670241285
+sentence_count = 373
+word_count = 10683
+unique_words_count = 3093
+unique_words_ratio = 0.28952541420949174
+misspelled_words_rate = 0.20518580922961716
+average_noun_rate = 0.27585884114948983
+average_verb_rate = 0.15838247683235046
+average_adj_rate = 0.08602452494617617
+average_adv_rate = 0.060657118786857624
+average_punct_rate = 0.10933258448001498
+stop_words_count = 5015
+stop_words_ratio = 0.4694374239445849
+
+
+
+-----------------------------------------
+
+problem-200:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+Reading input file D:\Projects\fmi\pan-corpus\problem-200/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 6.754716981132075
+sentence_count = 53
+word_count = 358
+unique_words_count = 210
+unique_words_ratio = 0.5865921787709497
+misspelled_words_rate = 0.4301675977653631
+average_noun_rate = 0.24581005586592178
+average_verb_rate = 0.20949720670391062
+average_adj_rate = 0.0782122905027933
+average_adv_rate = 0.05027932960893855
+average_punct_rate = 0.26536312849162014
+stop_words_count = 186
+stop_words_ratio = 0.5195530726256983
+Reading input file D:\Projects\fmi\pan-corpus\problem-200/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 8.348837209302326
+sentence_count = 43
+word_count = 359
+unique_words_count = 169
+unique_words_ratio = 0.47075208913649025
+misspelled_words_rate = 0.37604456824512533
+average_noun_rate = 0.116991643454039
+average_verb_rate = 0.25348189415041783
+average_adj_rate = 0.10863509749303621
+average_adv_rate = 0.10027855153203342
+average_punct_rate = 0.2479108635097493
+stop_words_count = 222
+stop_words_ratio = 0.6183844011142061
+
+
+-------------------------------------------
+
+problem-005:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+first_capital_letter_ratio = 0.12
+all_capital_letters_ratio = 0.02
+Reading input file D:\Projects\fmi\pan-corpus\problem-005/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 19.24074074074074
+sentence_count = 54
+word_count = 1039
+unique_words_count = 373
+unique_words_ratio = 0.3589990375360924
+misspelled_words_rate = 0.273339749759384
+average_noun_rate = 0.3695861405197305
+average_verb_rate = 0.15688161693936478
+average_adj_rate = 0.08950914340712224
+average_adv_rate = 0.03657362848893166
+average_punct_rate = 0.15976900866217517
+stop_words_count = 386
+stop_words_ratio = 0.37151106833493747
+words_first_capital_letter_ratio = 0.06256015399422522
+words_all_capital_letters_ratio = 0.010587102983638113
+Reading input file D:\Projects\fmi\pan-corpus\problem-005/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 24.452380952380953
+sentence_count = 42
+word_count = 1027
+unique_words_count = 472
+unique_words_ratio = 0.4595910418695229
+misspelled_words_rate = 0.379746835443038
+average_noun_rate = 0.33008763388510226
+average_verb_rate = 0.2112950340798442
+average_adj_rate = 0.08763388510223953
+average_adv_rate = 0.03018500486854917
+average_punct_rate = 0.10418695228821812
+stop_words_count = 434
+stop_words_ratio = 0.4225900681596884
+words_first_capital_letter_ratio = 0.06426484907497566
+words_all_capital_letters_ratio = 0.024342745861733205
+Reading input file D:\Projects\fmi\pan-corpus\problem-005/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 21.745098039215687
+sentence_count = 51
+word_count = 1109
+unique_words_count = 462
+unique_words_ratio = 0.4165915238954013
+misspelled_words_rate = 0.3291253381424707
+average_noun_rate = 0.3435527502254283
+average_verb_rate = 0.1587015329125338
+average_adj_rate = 0.11902614968440037
+average_adv_rate = 0.03967538322813345
+average_punct_rate = 0.11632100991884581
+stop_words_count = 429
+stop_words_ratio = 0.38683498647430115
+words_first_capital_letter_ratio = 0.07664562669071236
+words_all_capital_letters_ratio = 0.016230838593327322
+
+
+-----------------------------
+
+problem-060:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+first_capital_letter_ratio = 0.12
+all_capital_letters_ratio = 0.02
+Reading input file D:\Projects\fmi\pan-corpus\problem-060/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 25.46875
+sentence_count = 32
+word_count = 815
+unique_words_count = 326
+unique_words_ratio = 0.4
+misspelled_words_rate = 0.3239263803680982
+average_noun_rate = 0.2920245398773006
+average_verb_rate = 0.16809815950920245
+average_adj_rate = 0.06503067484662577
+average_adv_rate = 0.05644171779141104
+average_punct_rate = 0.06625766871165645
+stop_words_count = 386
+stop_words_ratio = 0.4736196319018405
+words_first_capital_letter_ratio = 0.09325153374233129
+words_all_capital_letters_ratio = 0.02822085889570552
+Reading input file D:\Projects\fmi\pan-corpus\problem-060/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 18.90625
+sentence_count = 32
+word_count = 605
+unique_words_count = 310
+unique_words_ratio = 0.512396694214876
+misspelled_words_rate = 0.4380165289256198
+average_noun_rate = 0.2727272727272727
+average_verb_rate = 0.20330578512396694
+average_adj_rate = 0.10082644628099173
+average_adv_rate = 0.07933884297520662
+average_punct_rate = 0.10413223140495868
+stop_words_count = 274
+stop_words_ratio = 0.45289256198347105
+words_first_capital_letter_ratio = 0.07603305785123966
+words_all_capital_letters_ratio = 0.0049586776859504135
+Reading input file D:\Projects\fmi\pan-corpus\problem-060/same-author02.txt
+>>>>>>>>>>>> Stats for file same-author02.txt
+average_sentence_length = 19.2
+sentence_count = 45
+word_count = 864
+unique_words_count = 328
+unique_words_ratio = 0.37962962962962965
+misspelled_words_rate = 0.3333333333333333
+average_noun_rate = 0.1736111111111111
+average_verb_rate = 0.2152777777777778
+average_adj_rate = 0.0763888888888889
+average_adv_rate = 0.09490740740740741
+average_punct_rate = 0.10300925925925926
+stop_words_count = 480
+stop_words_ratio = 0.5555555555555556
+words_first_capital_letter_ratio = 0.13078703703703703
+words_all_capital_letters_ratio = 0.056712962962962965
+
+
+---------------------------------
+
+problem-110:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+first_capital_letter_ratio = 0.12
+all_capital_letters_ratio = 0.02
+Reading input file D:\Projects\fmi\pan-corpus\problem-110/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 25.414634146341463
+sentence_count = 82
+word_count = 2084
+unique_words_count = 870
+unique_words_ratio = 0.41746641074856045
+misspelled_words_rate = 0.33493282149712095
+average_noun_rate = 0.2504798464491363
+average_verb_rate = 0.17754318618042225
+average_adj_rate = 0.08349328214971209
+average_adv_rate = 0.05182341650671785
+average_punct_rate = 0.10028790786948176
+stop_words_count = 1031
+stop_words_ratio = 0.494721689059501
+words_first_capital_letter_ratio = 0.10268714011516315
+words_all_capital_letters_ratio = 0.008157389635316698
+Reading input file D:\Projects\fmi\pan-corpus\problem-110/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 30.822384428223845
+sentence_count = 411
+word_count = 12668
+unique_words_count = 3482
+unique_words_ratio = 0.2748658035996211
+misspelled_words_rate = 0.2051626144616356
+average_noun_rate = 0.2729712661825071
+average_verb_rate = 0.1656141458793811
+average_adj_rate = 0.08533312282917588
+average_adv_rate = 0.05707293969055889
+average_punct_rate = 0.10451531417745501
+stop_words_count = 5988
+stop_words_ratio = 0.47268708556994
+words_first_capital_letter_ratio = 0.11043574360593622
+words_all_capital_letters_ratio = 0.0034733185980423114
+
+
+--------------------------------
+problem-160:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+first_capital_letter_ratio = 0.12
+all_capital_letters_ratio = 0.02
+Reading input file D:\Projects\fmi\pan-corpus\problem-160/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 13.363636363636363
+sentence_count = 22
+word_count = 294
+unique_words_count = 172
+unique_words_ratio = 0.5850340136054422
+misspelled_words_rate = 0.43197278911564624
+average_noun_rate = 0.20748299319727892
+average_verb_rate = 0.23809523809523808
+average_adj_rate = 0.05782312925170068
+average_adv_rate = 0.1360544217687075
+average_punct_rate = 0.23469387755102042
+stop_words_count = 144
+stop_words_ratio = 0.4897959183673469
+words_first_capital_letter_ratio = 0.1836734693877551
+words_all_capital_letters_ratio = 0.02040816326530612
+Reading input file D:\Projects\fmi\pan-corpus\problem-160/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 15.428571428571429
+sentence_count = 21
+word_count = 324
+unique_words_count = 139
+unique_words_ratio = 0.42901234567901236
+misspelled_words_rate = 0.2623456790123457
+average_noun_rate = 0.28703703703703703
+average_verb_rate = 0.16049382716049382
+average_adj_rate = 0.08024691358024691
+average_adv_rate = 0.009259259259259259
+average_punct_rate = 0.21604938271604937
+stop_words_count = 160
+stop_words_ratio = 0.49382716049382713
+words_first_capital_letter_ratio = 0.36419753086419754
+words_all_capital_letters_ratio = 0.024691358024691357
+
+----------------------------------
+problem-205:
+
+Average stats from the train corpus and big.txt:
+average_sentence_length = 19
+unique_words_ratio = 0.44
+misspelled_words_rate = 0.36
+average_noun_rate = 0.24
+average_verb_rate = 0.19
+average_adj_rate = 0.076
+average_adv_rate = 0.06
+average_punct_rate = 0.15
+stop_words_ratio = 0.5
+first_capital_letter_ratio = 0.12
+all_capital_letters_ratio = 0.02
+Reading input file D:\Projects\fmi\pan-corpus\problem-205/original.txt
+>>>>>>>>>>>> Stats for file original.txt
+average_sentence_length = 14.083333333333334
+sentence_count = 24
+word_count = 338
+unique_words_count = 190
+unique_words_ratio = 0.5621301775147929
+misspelled_words_rate = 0.45857988165680474
+average_noun_rate = 0.22189349112426035
+average_verb_rate = 0.19230769230769232
+average_adj_rate = 0.07692307692307693
+average_adv_rate = 0.047337278106508875
+average_punct_rate = 0.17751479289940827
+stop_words_count = 161
+stop_words_ratio = 0.47633136094674555
+words_first_capital_letter_ratio = 0.1893491124260355
+words_all_capital_letters_ratio = 0.07100591715976332
+Reading input file D:\Projects\fmi\pan-corpus\problem-205/same-author01.txt
+>>>>>>>>>>>> Stats for file same-author01.txt
+average_sentence_length = 14.5
+sentence_count = 26
+word_count = 377
+unique_words_count = 217
+unique_words_ratio = 0.5755968169761273
+misspelled_words_rate = 0.4509283819628647
+average_noun_rate = 0.20424403183023873
+average_verb_rate = 0.21220159151193635
+average_adj_rate = 0.07692307692307693
+average_adv_rate = 0.06631299734748011
+average_punct_rate = 0.1724137931034483
+stop_words_count = 195
+stop_words_ratio = 0.5172413793103449
+words_first_capital_letter_ratio = 0.14323607427055704
+words_all_capital_letters_ratio = 0.013262599469496022
+
+
+-------------------------------
+
+
+
+
+

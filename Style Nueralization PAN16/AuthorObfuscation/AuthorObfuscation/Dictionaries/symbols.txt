@@ -1,0 +1,42 @@
+& - and
+$ - Dollars
+€ - Euro
+£ - Pound
+¥ - Yen
+USD - US Dollar
+EUR - Euro
+GBP - British Pound
+INR - Indian Rupee
+AUD - Australian Dollar
+CAD - Canadian Dollar
+SGD - Singapore Dollar
+CHF - Swiss Franc
+MYR - Malaysian Ringgit
+JPY - Japanese Yen
+CNY - Chinese Yuan Renminbi
+% - percent
+i.e. - meaning that
+ex. - for example
+etc. - et cetera
+@ - at
+Mr. - Mister
+Ms. - Miss
+Mrs. - Missis
+Prof. - Professor
+St. - Saint
+Dr. - Doctor
+Sr. - Senior
+Jr. - Junior
+Assn. - Association
+Ave. - Avenue
+Dept. - Department
+Est. - Established
+Fig. - Figure
+Hrs. - Hours
+Inc. - Incorporated
+Mt. - Mount
+No. - Number
+Oz. - Ounces
+Sq. - Square
+St. - Street
+Vs - Versus

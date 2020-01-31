@@ -1,0 +1,317 @@
+accommodation,accommodations
+action replay,instant replay
+aerofoil,airfoil
+aeroplane,airplane
+agony aunt,advice columnist
+Allen key,Allen wrench
+aluminium,aluminum
+aniseed,anise
+anticlockwise,counterclockwise
+articulated lorry,tractor-trailer
+asymmetric bars,uneven bars
+aubergine,eggplant
+baking tray,cookie sheet
+bank holiday,legal holiday
+beetroot,beet(s)
+behaviour,behavior
+bill,check
+biscuit,cookie
+black economy,underground economy
+blanket bath,sponge bath
+blind,shade
+block of flats,apartment building
+boiler suit,coveralls
+bonnet (of a car),hood
+boob tube,tube top
+boot (of a car),trunk
+bottom drawer,hope chest
+bowls,lawn bowling
+braces,suspenders
+brawn (the food),headcheese
+breakdown van,tow truck
+breeze block,cinder block
+bridging loan,bridge loan
+bumbag,fanny pack
+candyfloss,cotton candy
+car park,parking lot
+casualty,emergency room
+catapult,slingshot
+central reservation,median strip
+chemist,drugstore
+chips,French fries
+cinema,movie theater; the movies
+cling film,plastic wrap
+common seal,harbor seal
+consumer durables,durable goods
+cornflour,cornstarch
+cos (lettuce),Romaine
+cot,crib
+cot death,crib death
+cotton bud,cotton swab
+cotton wool,absorbent cotton
+council estate,(housing) project
+courgette,zucchini
+court card,face card
+crash barrier,guardrail
+crisps,chips; potato chips
+crocodile clip,alligator clip
+cross-ply,bias-ply
+crotchet (music),quarter note
+current account,checking account
+danger money,hazard pay
+demister (in a car),defroster
+dialling tone,dial tone
+diamante,rhinestone
+double cream,heavy cream
+draughts,checkers
+drawing pin,thumbtack
+dressing gown,robe; bathrobe
+drink-driving,drunk driving
+drinks cupboard,liquor cabinet
+drinks party,cocktail party
+driving licence,driver’s license
+dual carriageway,divided highway
+dummy,pacifier
+dust sheet,drop cloth
+dustbin,garbage can
+earth,ground
+engaged,busy
+estate agent,real estate agent
+estate car,station wagon
+ex-directory,unlisted
+faith school,parochial school
+financial year,fiscal year
+fire brigade/service,fire company/department
+first floor,second floor
+fish finger,fish stick
+fitted carpet,wall-to-wall carpeting
+flannel,washcloth
+flat,apartment
+flexitime,flextime
+flick knife,switchblade
+flyover,overpass
+football,soccer
+footway,sidewalk
+fringe,bangs
+full board,American plan
+full stop,period
+garden,yard; lawn
+gearing,leverage
+gear lever,gearshift
+goods train,freight train
+greaseproof paper,wax paper/waxed paper
+green fingers,green thumb
+grill,broiler
+grill,broil
+ground floor,first floor
+groundsman,groundskeeper
+hairslide,barrette
+hatstand,hatrack
+hen night,bachelorette party
+hire purchase,installment plan
+hoarding,billboard
+hob,stovetop
+holdall,carryall
+holiday,vacation
+holidaymaker,vacationer
+homely,homey
+hosepipe,hose
+in hospital,in the hospital
+hot flush,hot flash
+housing estate,housing development
+hundreds and thousands,sprinkles (for ice cream)
+ice lolly,Popsicle
+icing sugar,confectioners’ sugar
+indicator,turn signal
+inside leg,inseam
+jelly babies,jelly beans
+Joe Bloggs,Joe Blow
+Joe Public,John Q. Public
+jumble sale,rummage sale
+jump lead,jumper cable
+jumper,sweater
+junior school,elementary school
+kennel,doghouse
+ladybird,ladybug
+a lettuce,a head of lettuce
+level crossing,grade crossing
+lift,elevator
+lolly,Popsicle
+lollipop lady,crossing guard
+loo,john
+loose cover,slipcover
+lorry,truck
+loudhailer,bullhorn
+low loader,flatbed truck
+lucky dip,grab bag
+luggage van,baggage car
+maize,corn
+mangetout,snow pea
+market garden,truck farm
+marshalling yard,railroad yard
+maths,math
+metalled road,paved road
+milometer,odometer
+minim,half note
+mobile phone,cell phone
+monkey tricks,monkeyshines
+motorway,expressway; highway
+mum,mom
+mummy,mommy
+nappy,diaper
+needlecord,pinwale
+newsreader,newscaster
+noughts and crosses,tic-tac-toe
+number plate,license plate
+off-licence,liquor store; package store
+opencast mining,open-pit mining
+ordinary share,common stock
+oven glove,oven mitt
+paddling pool,wading pool
+paracetamol,acetaminophen
+parting,part
+patience,solitaire
+pavement,sidewalk
+pay packet,pay envelope
+pedestrian crossing,crosswalk
+peg,clothespin
+pelmet,valance
+petrol,gas; gasoline
+physiotherapy,physical therapy
+pinafore dress,jumper
+plain chocolate,dark chocolate
+plain flour,all-purpose flour
+polo neck,turtleneck
+positive discrimination,reverse discrimination
+postal vote,absentee ballot
+postbox,mailbox
+postcode,zip code
+potato crisp,potato chip
+power point,electrical outlet
+pram,baby carriage; stroller
+press stud,snap
+press-up,pushup
+private soldier,GI
+public school,private school
+public transport,public transportation
+punchbag,punching bag
+pushchair,stroller
+pylon,utility pole
+quantity surveyor,estimator
+quaver,eighth note
+queue,line
+racing car,race car
+railway,railroad
+real tennis,court tennis
+recorded delivery,certified mail
+registration plate,license plate
+remould,retread
+reverse the charges,call collect
+reversing lights,back-up lights
+right-angled triangle,right triangle
+ring road,beltway
+room only,European plan
+roundabout,carousel
+roundabout,traffic circle
+rowing boat,rowboat
+sailing boat,sailboat
+saloon,sedan
+sandpit,sandbox
+sandwich cake,layer cake
+sanitary towel,sanitary napkin
+self-raising flour,self-rising flour
+semibreve,whole note
+semitone,half step
+share option,stock option
+shopping trolley,shopping cart
+show house/home,model home
+silencer,muffler
+silverside,rump roast
+skeleton in the cupboard,skeleton in the closet
+skimmed milk,skim milk
+skipping rope,jump rope
+skirting board,baseboard
+sledge,sled
+sleeper,railroad tie
+sleeping partner,silent partner
+slowcoach,slowpoke
+snakes and ladders,chutes and ladders
+solicitor,lawyer
+soya,soy
+soya bean,soybean
+splashback,backsplash
+spring onion,green onion
+stag night,bachelor party
+Stanley knife,utility knife
+starter,appetizer
+state school,public school
+storm in a teacup,tempest in a teapot
+surtitle,supertitle
+swede,rutabaga
+sweet(s),candy
+takeaway (food),takeout; to go
+taxi rank,taxi stand
+tea towel,dish towel
+terrace house,row house
+tick,check mark
+ticket tout,scalper
+tights,pantyhose
+timber,lumber
+titbit,tidbit
+toffee apple,candy apple
+touch wood,knock on wood
+trade union,labor union
+trading estate,industrial park
+trainers,sneakers
+tram,streetcar; cable car
+transport cafe,truck stop
+trolley,shopping cart
+twelve-bore,twelve-gauge
+unalike,unlike
+underground,subway
+vacuum flask,thermos bottle
+verge,shoulder
+vest,undershirt
+veterinary surgeon,veterinarian
+wagon,car
+waistcoat,vest
+walking frame,walker
+wardrobe,closet
+water ice,Italian ice
+weatherboard,clapboard
+white coffee,coffee with cream
+white spirit,mineral spirits
+wholemeal bread,wholewheat bread
+windcheater,windbreaker
+windscreen,windshield
+wing,fender
+worktop,countertop
+Yale lock,cylinder lock
+zebra crossing,crosswalk
+zed,zee
+zip,zipper
+centre,center
+fibre,fiber
+litre,liter
+theatre,theater
+colour,color
+flavour,flavor
+humour,humor
+labour,labor
+neighbour,neighbor
+analyse,analyze
+breathalyse,breathalyze
+paralyse,paralyze
+travelled,traveled
+travelling,traveling
+traveller,traveler
+fuelled,fueled
+fuelling,fueling
+leukaemia,leukemia
+manoeuvre,maneuver
+oestrogen,estrogen
+paediatric,pediatric
+defence,defense
+licence,license
+offence,offense
+armour,armor
