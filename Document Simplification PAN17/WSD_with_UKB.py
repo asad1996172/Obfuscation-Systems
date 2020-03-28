@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/usr/local/share/freeling/APIs/python3')
 import pyfreeling
 import sys
 
