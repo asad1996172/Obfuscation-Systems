@@ -1,0 +1,12 @@
+{
+    "author_name": "76211",
+    "experiment_number": 4,
+    "is_this_experiment_included_for_obfuscation_detection": 1,
+    "original": null,
+    "obfuscated": 1,
+    "evaded": null,
+    "included_in_attribution_train": 0,
+    "included_in_attribution_test": 1,
+    "included_in_obfuscation_detection_train": null,
+    "included_in_obfuscation_detection_test": null
+}
