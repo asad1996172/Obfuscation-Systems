@@ -1,7 +1,5 @@
-========================================================================
-The system for Mediocrity Approach to Style Masking and Author Obfuscation.
-
-July 29, 2017
+## Style Nuetralization PAN16
+This code repo is from (https://bitbucket.org/pan2016authorobfuscation/authorobfuscation/src/master/)
 ========================================================================
 
 This is the code initially used for the Author Obfuscation task in PAN-2016 
